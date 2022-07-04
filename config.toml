@@ -1,0 +1,7 @@
+baseURL = 'https://varadarajan1.github.io/'
+languageCode = 'en-us'
+title = 'Mem notes'
+theme = 'beautifulhugo'
+
+[Params]
+   subtitle = 'Notes and rants about things i like'
